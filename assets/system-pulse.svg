@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-labelledby="title description">
-  <title id="title">Lasha Giorgobiani, Full Stack Software Engineer</title>
-  <desc id="description">An animated software system diagram showing product interfaces, APIs, queues, databases, and deployment.</desc>
+  <title id="title">Lasha Giorgobiani, AI Engineer and Full Stack Software Engineer</title>
+  <desc id="description">An animated AI product system showing interfaces, agents, APIs, queues, data, and production delivery.</desc>
 
   <defs>
     <linearGradient id="surfaceGlow" x1="0" y1="0" x2="1" y2="1">
@@ -83,7 +83,7 @@
     .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
     .eyebrow { fill: var(--text-dim); font-size: 12px; font-weight: 650; letter-spacing: 2.3px; }
     .name { fill: var(--text); font-size: 55px; font-weight: 720; letter-spacing: -1.8px; }
-    .role { fill: var(--text-soft); font-size: 20px; font-weight: 520; letter-spacing: 0.2px; }
+    .role { fill: var(--text-soft); font-size: 18px; font-weight: 520; letter-spacing: 0.1px; }
     .copy { fill: var(--text-soft); font-size: 14px; }
     .chip-text { fill: var(--text-soft); font-size: 11px; font-weight: 650; letter-spacing: 0.55px; }
     .node-label { fill: var(--text-dim); font-size: 9px; font-weight: 700; letter-spacing: 1.2px; }
@@ -210,30 +210,30 @@
   </g>
 
   <g class="intro-role">
-    <text class="role" x="64" y="178">Full Stack Software Engineer</text>
-    <rect class="cursor" x="351" y="158" width="2" height="24" rx="1" fill="var(--accent-warm)" />
+    <text class="role" x="64" y="178">AI Engineer &amp; Full Stack Software Engineer</text>
+    <rect class="cursor" x="458" y="158" width="2" height="24" rx="1" fill="var(--accent-warm)" />
   </g>
 
   <g class="intro-copy">
-    <text class="copy" x="64" y="218">I design product interfaces and the systems behind them.</text>
-    <text class="copy" x="64" y="241">Typed APIs, reliable data flows, real time features, production delivery.</text>
+    <text class="copy" x="64" y="218">I build AI products, automation, and the systems behind them.</text>
+    <text class="copy" x="64" y="241">Agents, voice workflows, typed APIs, data, and production delivery.</text>
   </g>
 
   <g class="chip chip-1">
-    <rect x="64" y="270" width="98" height="30" rx="8" fill="var(--surface)" stroke="var(--border)" />
-    <text class="chip-text mono" x="83" y="289">TYPESCRIPT</text>
+    <rect x="64" y="270" width="92" height="30" rx="8" fill="var(--surface)" stroke="var(--border)" />
+    <text class="chip-text mono" x="81" y="289">AI AGENTS</text>
   </g>
   <g class="chip chip-2">
-    <rect x="171" y="270" width="81" height="30" rx="8" fill="var(--surface)" stroke="var(--border)" />
-    <text class="chip-text mono" x="191" y="289">NEXT.JS</text>
+    <rect x="165" y="270" width="58" height="30" rx="8" fill="var(--surface)" stroke="var(--border)" />
+    <text class="chip-text mono" x="182" y="289">N8N</text>
   </g>
   <g class="chip chip-3">
-    <rect x="261" y="270" width="86" height="30" rx="8" fill="var(--surface)" stroke="var(--border)" />
-    <text class="chip-text mono" x="279" y="289">NESTJS</text>
+    <rect x="232" y="270" width="98" height="30" rx="8" fill="var(--surface)" stroke="var(--border)" />
+    <text class="chip-text mono" x="251" y="289">TYPESCRIPT</text>
   </g>
   <g class="chip chip-4">
-    <rect x="356" y="270" width="106" height="30" rx="8" fill="var(--surface)" stroke="var(--border)" />
-    <text class="chip-text mono" x="376" y="289">DATA SYSTEMS</text>
+    <rect x="339" y="270" width="128" height="30" rx="8" fill="var(--surface)" stroke="var(--border)" />
+    <text class="chip-text mono" x="357" y="289">PRODUCT SYSTEMS</text>
   </g>
 
   <g class="intro-link">
@@ -324,21 +324,21 @@
 
   <g transform="translate(674 214)">
     <rect width="300" height="94" rx="12" fill="var(--surface)" stroke="var(--border)" />
-    <text class="node-label mono" x="16" y="22">SYSTEM SIGNAL</text>
+    <text class="node-label mono" x="16" y="22">ENGINEERING FOCUS</text>
     <g class="metric metric-1">
-      <text class="node-meta mono" x="16" y="44">INTERFACE</text>
+      <text class="node-meta mono" x="16" y="44">AGENTS</text>
       <rect class="bar" x="93" y="37" width="154" height="7" rx="3.5" fill="var(--accent-cool)" opacity="0.75" />
-      <text class="node-meta mono" x="261" y="44">98</text>
+      <text class="node-meta mono" x="261" y="44">LIVE</text>
     </g>
     <g class="metric metric-2">
-      <text class="node-meta mono" x="16" y="64">API</text>
+      <text class="node-meta mono" x="16" y="64">PRODUCT</text>
       <rect class="bar" x="93" y="57" width="138" height="7" rx="3.5" fill="var(--accent-blue)" opacity="0.75" />
-      <text class="node-meta mono" x="261" y="64">92</text>
+      <text class="node-meta mono" x="261" y="64">LIVE</text>
     </g>
     <g class="metric metric-3">
       <text class="node-meta mono" x="16" y="84">DELIVERY</text>
       <rect class="bar" x="93" y="77" width="146" height="7" rx="3.5" fill="var(--accent-warm)" opacity="0.78" />
-      <text class="node-meta mono" x="261" y="84">95</text>
+      <text class="node-meta mono" x="261" y="84">LIVE</text>
     </g>
   </g>
 </svg>
